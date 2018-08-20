@@ -1,0 +1,44 @@
+.sous-titre{
+  color: orange;
+}
+
+.regles{
+  font-size: 25px;
+}
+
+.entreprise{
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+border:5px solid #FFFFFF;
+background-color: grey;
+}
+.trait{
+  height: 3px;
+  	border: 0;
+}
+/* Footer */
+
+footer{
+   background-color: #424558;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    text-align: center;
+    color: #CCC;
+}
+
+footer p {
+    padding: 10.5px;
+    margin: 0px;
+    line-height: 100%;
+}
+
+.happy_meal{
+  background-color: rgba(161, 162, 161, 0.5);
+  color: black;
+}
+.happy{
+  color: orange;
+}
