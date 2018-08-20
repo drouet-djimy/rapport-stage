@@ -10,29 +10,29 @@
   font-size: 35px;
   color: white;
   font-weight: bold;
-border:5px solid #FFFFFF;
-background-color: grey;
+  border:5px solid #FFFFFF;
+  background-color: grey;
 }
 .trait{
   height: 3px;
-  	border: 0;
+  border: 0;
 }
 /* Footer */
 
-footer{
-   background-color: #424558;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 50px;
-    text-align: center;
-    color: #CCC;
+.pied_page{
+  background-color: #424558;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  text-align: center;
+  color: #CCC;
 }
 
-footer p {
-    padding: 10.5px;
-    margin: 0px;
-    line-height: 100%;
+pied_page {
+  padding: 10.5px;
+  margin: 0px;
+  line-height: 100%;
 }
 
 .happy_meal{
